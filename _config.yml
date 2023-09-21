@@ -2,4 +2,4 @@ remote_theme: pages-themes/minimal@v0.2.0
 plugins:
 - jekyll-remote-theme
 title: Modularity Project
-description: Home for resources on the Modularity Project
+description: Home for resources on modularity, work by [Distinguished Research Fellows](https://www.annenbergpublicpolicycenter.org/annenberg-public-policy-center-distinguished-research-fellows/) Susan Ness and Chris Riley with the [Annenberg Public Policy Center](https://www.annenbergpublicpolicycenter.org/) of the [University of Pennsylvania](https://www.upenn.edu/).
